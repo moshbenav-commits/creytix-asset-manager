@@ -1,0 +1,11 @@
+# Per-machine data — never commit
+registry.json
+registry.json.bak
+quarantine/
+archive/
+cleanup.log
+dup-groups.json
+scan-log.json
+*.orig
+__pycache__/
+*.pyc
