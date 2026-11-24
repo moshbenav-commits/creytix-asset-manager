@@ -53,3 +53,9 @@ Candidates, all on the Studio, all superseded with their canonical live copy now
 - `studio-verify.json`, `studio-verify-out.tsv`, `studio-paths.tsv`, `studio-decisions.json`
 - `pro-verify.json`, `pro-verify-out.tsv`, `pro-verify-out-raw.tsv`, `pro-paths.tsv`, `pro-paths-removed-2026-11-23.tsv`, `pro-decisions.json`
 - `registry-before-review-2026-11-23.json` (pre-pass backup), `recon-2026-11-23.json`
+
+## Cleanup — DONE 2026-11-23 19:34 PST (Ricardo's tap)
+
+- Deleted **26/26** superseded `_deleted-backup` files on the Studio, **150.9 MiB** freed.
+- Each deletion was gated: the script verified the canonical live copy still existed with the registry sha256 before deleting; 0 skipped, 0 already gone.
+- Evidence: `cleanup.tsv`, `cleanup.sh`, `cleanup-out.tsv` in this folder.
