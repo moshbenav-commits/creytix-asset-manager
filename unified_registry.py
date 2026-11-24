@@ -262,15 +262,21 @@ def cmd_cleanup(args):
                         path.unlink()
 
         elif status == "pending" and (now - created) > timedelta(days=PENDING_DAYS):
-            QUARANTINE.mkdir(exist_ok=True)
-            dest = QUARANTINE / path.name
-            if path.exists():
-                actions.append(("quarantine", path, f"pending > {PENDING_DAYS}d"))
-                if not args.dry_run:
-                    shutil.move(str(path), str(dest))
-                    # Update registry path
-                    reg["assets"][str(dest)] = entry
-                    del reg["assets"][path_str]
+            if getattr(args, "scheduled", False):
+                # Scheduled runs NEVER quarantine: pending means "awaiting
+                # review", not "stale". Bulk-registered files all look old.
+                # Quarantine is a manual action only.
+                actions.append(("report-pending", path, f"pending > {PENDING_DAYS}d - review needed, not quarantined (scheduled mode)"))
+            else:
+                QUARANTINE.mkdir(exist_ok=True)
+                dest = QUARANTINE / path.name
+                if path.exists():
+                    actions.append(("quarantine", path, f"pending > {PENDING_DAYS}d"))
+                    if not args.dry_run:
+                        shutil.move(str(path), str(dest))
+                        # Update registry path
+                        reg["assets"][str(dest)] = entry
+                        del reg["assets"][path_str]
 
         elif status == "superseded":
             ARCHIVE.mkdir(exist_ok=True)
