@@ -75,6 +75,19 @@ def detect_type(path):
     return "other"
 
 
+
+def norm_path(raw):
+    """Normalize a registry path argument. Remote entries carry a
+    `pro:` / `studio:` / `vm:` prefix — pass those through unchanged
+    so registry lookups match the stored key. Local paths resolve
+    to absolute as before."""
+    s = str(raw)
+    for prefix in ("pro:", "studio:", "vm:"):
+        if s.startswith(prefix):
+            return s
+    return str(Path(s).resolve())
+
+
 def load_registry():
     if REGISTRY.exists():
         return json.loads(REGISTRY.read_text())
@@ -95,7 +108,7 @@ def sha256_of(path):
 
 def cmd_register(args):
     reg = load_registry()
-    path = Path(args.file).resolve()
+    path = Path(norm_path(args.file))
     if not path.exists():
         print(f"File not found: {path}")
         sys.exit(1)
@@ -184,7 +197,7 @@ def cmd_register(args):
 
 def cmd_approve(args):
     reg = load_registry()
-    path = str(Path(args.file).resolve())
+    path = norm_path(args.file)
     if path not in reg["assets"]:
         print(f"Not in registry: {path}")
         print("Register it first with: unified_registry.py register <file> ...")
@@ -198,7 +211,7 @@ def cmd_approve(args):
 
 def cmd_reject(args):
     reg = load_registry()
-    path = Path(args.file).resolve()
+    path = Path(norm_path(args.file))
     spath = str(path)
     if spath in reg["assets"]:
         reg["assets"][spath]["status"] = "rejected"
@@ -213,8 +226,8 @@ def cmd_reject(args):
 def cmd_supersede(args):
     """Mark old file as superseded by new file. Old goes to archive."""
     reg = load_registry()
-    old = str(Path(args.old).resolve())
-    new = str(Path(args.new).resolve())
+    old = norm_path(args.old)
+    new = norm_path(args.new)
     if old not in reg["assets"]:
         print(f"Old file not in registry: {old}")
         sys.exit(1)
@@ -489,7 +502,7 @@ def cmd_characterize(args):
     Example: unified_registry.py characterize <file> --add raspy,high-energy
     """
     reg = load_registry()
-    path = str(Path(args.file).resolve())
+    path = norm_path(args.file)
     if path not in reg["assets"]:
         print(f"Not in registry: {path}")
         sys.exit(1)
@@ -567,7 +580,7 @@ def cmd_auto_approve(args):
 def cmd_tag(args):
     """Embed metadata into WAV RIFF INFO chunk (audio only)."""
     reg = load_registry()
-    path = str(Path(args.file).resolve())
+    path = norm_path(args.file)
     if path not in reg["assets"]:
         print(f"Not in registry: {path}")
         sys.exit(1)
