@@ -1,0 +1,70 @@
+{
+ "complete_trio": [
+  "ada-kowalski",
+  "adrian-vale",
+  "amara-sesay",
+  "anders-solano",
+  "camille-moreau",
+  "clara-lindgren",
+  "colette-harlow",
+  "corinne-vasquez",
+  "dana-whitlock",
+  "david-okafor",
+  "devon-ashworth",
+  "elena-cruz",
+  "emiliano-robledo",
+  "emmett-kowalczyk",
+  "felix-achterberg",
+  "graham-ellsworth",
+  "greer-whitfield",
+  "hana-iverson",
+  "harriet-vance",
+  "hollis-grant",
+  "ines-duarte",
+  "ingrid-solberg",
+  "isaac-carlisle",
+  "james-ashworth",
+  "jonas-feld",
+  "julian-marsh",
+  "julien-varenne",
+  "june-calloway",
+  "lena-varga",
+  "marcus-chen",
+  "marcus-delaney",
+  "marcus-webb",
+  "maren-aubry",
+  "marisol-ochoa",
+  "miles-garrow",
+  "milo-reyes",
+  "nora-pendleton",
+  "owen-castellano",
+  "priya-kessler",
+  "priya-raman",
+  "rafael-osei",
+  "ray-delgado",
+  "ruth-adeyemi",
+  "sam-okoro",
+  "silas-fenwick",
+  "simone-okonkwo",
+  "sofia-bellini",
+  "tamsin-okafor",
+  "tarun-vashist",
+  "theo-lindqvist",
+  "vivienne-hart",
+  "wyatt-solis",
+  "yara-masri",
+  "zee-nakamura",
+  "zoe-marchetti"
+ ],
+ "incomplete_trio": {
+  "noelle-faraday": [
+   "intro-en.wav"
+  ],
+  "nolan-brandt": [
+   "intro-en.wav"
+  ],
+  "theo-marchetti": [
+   "intro-native.wav"
+  ]
+ }
+}

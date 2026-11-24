@@ -1,0 +1,369 @@
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/ada-kowalski/
+intro-en-fixed.wav
+intro-en.wav
+intro-native-clean.wav
+intro-native.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/adrian-vale/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/amara-sesay/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/anders-solano/
+intro-en-fixed.wav
+intro-en.wav
+intro-native-clean.wav
+intro-native.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/camille-moreau/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/clara-lindgren/
+intro-en-fixed.wav
+intro-en.wav
+intro-native-clean.wav
+intro-native.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/colette-harlow/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/corinne-vasquez/
+intro-en-fixed.wav
+intro-en.wav
+intro-native-clean.wav
+intro-native.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/dana-whitlock/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference-v2.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/david-okafor/
+intro-en-fixed.wav
+intro-en.wav
+intro-native-clean.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/devon-ashworth/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference-v2.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/elena-cruz/
+intro-en-fixed.wav
+intro-en.wav
+intro-native-clean.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference-v2.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/emiliano-robledo/
+intro-en-fixed.wav
+intro-en.wav
+intro-native-clean.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference-v2.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/emmett-kowalczyk/
+intro-en-fixed.wav
+intro-en.wav
+intro-native-clean.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference-v2.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/felix-achterberg/
+intro-en-fixed.wav
+intro-en.wav
+intro-native-clean.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference-v2.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/graham-ellsworth/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference-v2.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/greer-whitfield/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference-v2.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/hana-iverson/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/harriet-vance/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/hollis-grant/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/ines-duarte/
+intro-en-fixed.wav
+intro-en.wav
+intro-native-clean.wav
+intro-native.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/ingrid-solberg/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference-v2.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/isaac-carlisle/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference-v2.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/james-ashworth/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference-v2.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/jonas-feld/
+intro-en-fixed.wav
+intro-en.wav
+intro-native-clean.wav
+intro-native.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/julian-marsh/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/julien-varenne/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/june-calloway/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/lena-varga/
+intro-en-fixed.wav
+intro-en.wav
+intro-native-clean.wav
+intro-native.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/marcus-chen/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference-v2.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/marcus-delaney/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference-v2.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/marcus-webb/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/maren-aubry/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference-v2.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/marisol-ochoa/
+intro-en-fixed.wav
+intro-en.wav
+intro-native-clean.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/miles-garrow/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference-v2.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/milo-reyes/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference-v2.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/noelle-faraday/
+intro-en-fixed.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference-v2.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/nolan-brandt/
+intro-en-fixed.wav
+intro-native-clean.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference-v2.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/nora-pendleton/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference-v2.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/owen-castellano/
+intro-en-fixed.wav
+intro-en.wav
+intro-native-clean.wav
+intro-native.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/priya-kessler/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/priya-raman/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/rafael-osei/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/ray-delgado/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/ruth-adeyemi/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/sam-okoro/
+intro-en-fixed.wav
+intro-en.wav
+intro-native-clean.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/silas-fenwick/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/simone-okonkwo/
+intro-en-fixed.wav
+intro-en.wav
+intro-native-clean.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference-v2.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/sofia-bellini/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference-v2.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/tamsin-okafor/
+intro-en-fixed.wav
+intro-en.wav
+intro-native-clean.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/tarun-vashist/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/theo-lindqvist/
+intro-en-fixed.wav
+intro-en.wav
+intro-native-clean.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference-v2.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/theo-marchetti/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference-v2.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/vivienne-hart/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference-v2.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/wyatt-solis/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference-30s.wav
+voice-reference-v2.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/yara-masri/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/zee-nakamura/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference.wav
+DIR: /Users/mac-mini-studio/expedia-data/reporter-voices/zoe-marchetti/
+intro-en-fixed.wav
+intro-en.wav
+intro-native.wav
+voice-reference.wav

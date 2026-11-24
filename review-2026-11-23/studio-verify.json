@@ -1,0 +1,19 @@
+{
+ "total": 688,
+ "present-match": 688,
+ "present-hash-mismatch": 0,
+ "present-size-mismatch": 0,
+ "missing": 0,
+ "by_scan_target": {
+  "studio:chatterbox-voices": {
+   "present-match": 378
+  },
+  "studio:reporter-voices": {
+   "present-match": 310
+  }
+ },
+ "missing_paths": [],
+ "hash_mismatch_paths": [],
+ "size_mismatch_paths": [],
+ "mismatches": []
+}

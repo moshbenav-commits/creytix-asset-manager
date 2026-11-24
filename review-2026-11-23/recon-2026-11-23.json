@@ -1,0 +1,62 @@
+{
+ "chatterbox_voices": {
+  "disk_top_level_entries": 310,
+  "disk_top_level_files": 309,
+  "registry_top_level_files": 306,
+  "disk_deleted_backup_files": 73,
+  "registry_deleted_backup_files": 72,
+  "disk_total_files": 382,
+  "registry_total_files": 378,
+  "on_disk_not_in_registry_top": [
+   "alignnewsroom-noelle-faraday.wav",
+   "ep-rumpled-es.mp3",
+   "voices.json"
+  ],
+  "on_disk_not_in_registry_deleted_backup": [
+   "voices.json.bak-20260915083239"
+  ],
+  "in_registry_not_on_disk": [],
+  "deleted_backup_note": "72 of the 73 files on disk in _deleted-backup/ are the 72 pending registry entries; the extra is voices.json.bak-20260915083239 (manifest backup, not audio)"
+ },
+ "reporter_voices": {
+  "disk_top_level_entries": 74,
+  "registry_reporter_dirs": 58,
+  "disk_reporter_dirs": 58,
+  "top_level_non_dir_files_on_disk_not_in_registry": [
+   "MANIFEST.json",
+   "batch.log",
+   "final.log",
+   "final_intros.py",
+   "fix.log",
+   "fix_and_regenerate.py",
+   "generate_all_voices.py",
+   "generate_all_voices.py.bak",
+   "generate_all_voices.py.bak2",
+   "generate_intros.py",
+   "intros.log",
+   "rebuild.log",
+   "rebuild_missing.py",
+   "remap.log",
+   "remap2.log",
+   "remap_failing.py"
+  ],
+  "reporter_dirs_in_registry_not_on_disk": [],
+  "disk_total_files": 311,
+  "registry_total_files": 310,
+  "trio_complete_on_disk": 56,
+  "trio_incomplete_on_disk": {
+   "noelle-faraday": [
+    "intro-en.wav"
+   ],
+   "nolan-brandt": [
+    "intro-en.wav"
+   ]
+  },
+  "files_on_disk_not_in_registry": {
+   "theo-marchetti": [
+    "intro-native.wav"
+   ]
+  },
+  "files_in_registry_not_on_disk": {}
+ }
+}

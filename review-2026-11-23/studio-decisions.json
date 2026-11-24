@@ -1,0 +1,3442 @@
+{
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ep-james.mp3": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ep-james"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ep-tasha.mp3": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ep-tasha"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ep-sofia.mp3": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ep-sofia"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ep-lisa.mp3": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ep-lisa"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/aligned-chemistry-momentum.mp3": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "aligned-chemistry-momentum"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ep-alex.mp3": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ep-alex"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ep-sarah.mp3": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ep-sarah"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ep-kevin.mp3": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ep-kevin"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ep-hf-clip-b.mp3": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ep-hf-clip-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ep-hf-clip-a.mp3": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ep-hf-clip-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ep-sofia-v2.mp3": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ep-sofia-v2"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ep-bianca.mp3": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ep-bianca"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/ep-shelly-v2.mp3": {
+  "decision": "APPROVE-KEEP-SOLE-COPY",
+  "reason": "only copy in registry; keep per Ricardo's deleted-files rule",
+  "family": "ep-shelly-v2"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/ep-shelly-v3.mp3": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "ep-shelly-v3"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/aligned-chemistry-mastery.mp3": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "aligned-chemistry-mastery"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/ep-ricardo.mp3": {
+  "decision": "APPROVE-KEEP-SOLE-COPY",
+  "reason": "only copy in registry; keep per Ricardo's deleted-files rule",
+  "family": "ep-ricardo"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/_ui_delete_test.mp3": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "_ui_delete_test"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/ui-clone-test.mp3": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "ui-clone-test"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/ep-danny.mp3": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "ep-danny"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/ep-shelly.mp3": {
+  "decision": "APPROVE-KEEP-SOLE-COPY",
+  "reason": "only copy in registry; keep per Ricardo's deleted-files rule",
+  "family": "ep-shelly"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/aligned-chemistry-authority.mp3": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "aligned-chemistry-authority"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/_delete_test.mp3": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "_delete_test"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ja-male-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ja-male-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-vi-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-vi-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-af-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-af-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-david-okafor.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-david-okafor"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/el-female-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "el-female-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/tw-female-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "tw-female-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-lv-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-lv-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/igbo-native-4.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "igbo-native-4"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-nora-pendleton.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-nora-pendleton"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-yara-masri.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-yara-masri"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ep-sarah-hq.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ep-sarah-hq"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/hu-female-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "hu-female-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-br-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-br-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/de-female-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "de-female-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/mlm-b19-grandmother.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "mlm-b19-grandmother"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/mlm-b20-etana.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "mlm-b20-etana"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-adrian-vale.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-adrian-vale"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-lt-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-lt-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-ps-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-ps-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-cy-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-cy-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-vi-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-vi-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-af-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-af-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/mlm-b9-miller.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "mlm-b9-miller"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-lv-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-lv-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ironclad-tough.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ironclad-tough"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-amara-sesay.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-amara-sesay"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-announcer-v3.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-announcer-v3"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-james-ashworth.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-james-ashworth"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/nl-female-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "nl-female-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-emmett-kowalczyk.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-emmett-kowalczyk"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-br-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-br-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/mlm-narrator-es.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "mlm-narrator-es"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-announcer-v2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-announcer-v2"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/nl-male-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "nl-male-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ep-hfupload.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ep-hfupload"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-ps-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-ps-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-lt-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-lt-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-ada-kowalski.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-ada-kowalski"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-cy-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-cy-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-theo-marchetti.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-theo-marchetti"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-sa-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-sa-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ep-james-hq2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ep-james-hq2"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-clara-lindgren.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-clara-lindgren"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/it-female-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "it-female-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/igbo-native-2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "igbo-native-2"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-ta-default-test.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-ta-default-test"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-june-calloway.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-june-calloway"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ep-james-hq.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ep-james-hq"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-hu-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-hu-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ep-arthur.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ep-arthur"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ms-female-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ms-female-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fi-female-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fi-female-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/da-male-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "da-male-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/mlm-b15-fionnuala.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "mlm-b15-fionnuala"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/mlm-b3-grandfather.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "mlm-b3-grandfather"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/igbo-native-3.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "igbo-native-3"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-ka-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-ka-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/de-male-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "de-male-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-bo-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-bo-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-my-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-my-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/no-male-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "no-male-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-sa-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-sa-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ms-male-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ms-male-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ep-alex-hq2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ep-alex-hq2"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/igbo-native-1.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "igbo-native-1"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/mlm-b2-celia-es.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "mlm-b2-celia-es"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-hu-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-hu-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/mlm-b18-simcheong.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "mlm-b18-simcheong"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-announcer-v4.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-announcer-v4"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/igbo-native-0.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "igbo-native-0"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-ka-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-ka-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-ig-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-ig-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-bo-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-bo-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-nolan-brandt.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-nolan-brandt"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/mlm-b20-eldershepherd.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "mlm-b20-eldershepherd"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/es-male-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "es-male-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-my-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-my-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/moveras-aaron.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "moveras-aaron"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ep-sofia-v3.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ep-sofia-v3"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-fo-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-fo-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/mlm-b18-father.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "mlm-b18-father"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-hr-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-hr-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/tr-male-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "tr-male-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/hi-female-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "hi-female-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-priya-raman.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-priya-raman"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ep-sarah-hq3.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ep-sarah-hq3"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-ca-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-ca-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-jv-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-jv-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-tw-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-tw-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ep-sarah-hq2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ep-sarah-hq2"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/pl-female-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "pl-female-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-ro-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-ro-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ko-male-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ko-male-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-tl-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-tl-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-sd-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-sd-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-bs-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-bs-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-fo-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-fo-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/mlm-b2-abuela.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "mlm-b2-abuela"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-zoe-marchetti.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-zoe-marchetti"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-anders-solano.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-anders-solano"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-hana-iverson.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-hana-iverson"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/it-male-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "it-male-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-hr-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-hr-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ru-male-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ru-male-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fr-female-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fr-female-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-ca-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-ca-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-jv-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-jv-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-priya-kessler.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-priya-kessler"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-tl-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-tl-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-ro-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-ro-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-sd-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-sd-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/mlm-b1-cata.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "mlm-b1-cata"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-bs-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-bs-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ep-monster-weird.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ep-monster-weird"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/sv-male-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "sv-male-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-announcer.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-announcer"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/el-male-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "el-male-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-graham-ellsworth.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-graham-ellsworth"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-th-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-th-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-az-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-az-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-ht-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-ht-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-miles-garrow.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-miles-garrow"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-simone-okonkwo.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-simone-okonkwo"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-id-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-id-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/mlm-narrator.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "mlm-narrator"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-bn-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-bn-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-sam-okoro.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-sam-okoro"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ru-female-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ru-female-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/yo-female-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "yo-female-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-nn-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-nn-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-th-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-th-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-az-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-az-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-ines-duarte.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-ines-duarte"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/tl-female-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "tl-female-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-ht-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-ht-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-tarun-vashist.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-tarun-vashist"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ig-female-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ig-female-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-id-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-id-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-marisol-ochoa.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-marisol-ochoa"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/mlm-b10-jack.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "mlm-b10-jack"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-bn-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-bn-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/he-male-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "he-male-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-nn-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-nn-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ep-monster-playful.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ep-monster-playful"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-devon-ashworth.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-devon-ashworth"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/hu-male-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "hu-male-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-gl-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-gl-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/zh-female-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "zh-female-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/en-male-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "en-male-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-marcus-chen.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-marcus-chen"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-sn-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-sn-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-is-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-is-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ta-male-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ta-male-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-kn-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-kn-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-rafael-osei.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-rafael-osei"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ar-male-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ar-male-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-pa-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-pa-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/moveras-tech.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "moveras-tech"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/moveras-narrator.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "moveras-narrator"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-yo-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-yo-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-tamsin-okafor.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-tamsin-okafor"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-am-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-am-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-gu-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-gu-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ep-shelly-v2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ep-shelly-v2"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/sv-female-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "sv-female-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/mlm-b19-hasan.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "mlm-b19-hasan"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-gl-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-gl-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-wyatt-solis.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-wyatt-solis"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/mlm-b2-abuela-es.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "mlm-b2-abuela-es"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/yo-male-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "yo-male-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/pl-male-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "pl-male-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/pt-female-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "pt-female-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-sn-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-sn-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-felix-achterberg.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-felix-achterberg"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-is-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-is-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ig-male-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ig-male-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-kn-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-kn-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-pa-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-pa-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-am-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-am-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-yo-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-yo-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/da-female-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "da-female-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-gu-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-gu-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fr-male-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fr-male-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-uk-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-uk-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ta-female-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ta-female-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-mi-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-mi-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-fa-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-fa-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/mlm-b11-kintaro.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "mlm-b11-kintaro"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-julian-marsh.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-julian-marsh"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-corinne-vasquez.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-corinne-vasquez"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-dana-whitlock.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-dana-whitlock"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ep-bianca-hq2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ep-bianca-hq2"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/tw-male-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "tw-male-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-mr-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-mr-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ep-monster-deep.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ep-monster-deep"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-colette-harlow.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-colette-harlow"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-ruth-adeyemi.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-ruth-adeyemi"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-eu-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-eu-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-hollis-grant.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-hollis-grant"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-camille-moreau.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-camille-moreau"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-yi-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-yi-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/mlm-b9-kabouter.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "mlm-b9-kabouter"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ep-sofia-v2-hq2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ep-sofia-v2-hq2"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-ur-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-ur-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-sq-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-sq-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ep-midwest.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ep-midwest"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-maren-aubry.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-maren-aubry"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/test-lisa-noshift.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "test-lisa-noshift"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ep-ricardo-v3.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ep-ricardo-v3"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-mi-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-mi-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/sw-male-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "sw-male-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-uk-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-uk-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-fa-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-fa-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-mr-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-mr-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ep-grady.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ep-grady"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ep-sofia-v2-hq.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ep-sofia-v2-hq"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-eu-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-eu-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-lena-varga.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-lena-varga"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-marcus-webb.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-marcus-webb"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-yi-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-yi-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/no-female-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "no-female-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/mlm-b1-abuela.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "mlm-b1-abuela"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ar-female-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ar-female-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-sq-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-sq-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-ur-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-ur-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-isaac-carlisle.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-isaac-carlisle"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ep-ricardo-v2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ep-ricardo-v2"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-mn-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-mn-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-km-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-km-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-host.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-host"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-marcus-delaney.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-marcus-delaney"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-elena-cruz.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-elena-cruz"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-cs-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-cs-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-emiliano-robledo.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-emiliano-robledo"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-hy-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-hy-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/tl-male-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "tl-male-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-te-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-te-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/en-female-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "en-female-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-ml-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-ml-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ko-female-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ko-female-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/pt-male-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "pt-male-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-harriet-vance.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-harriet-vance"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-km-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-km-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-mn-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-mn-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/hi-male-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "hi-male-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/tamil-native-0.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "tamil-native-0"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-cs-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-cs-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/mlm-b2-celia.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "mlm-b2-celia"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/mlm-b3-liongo.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "mlm-b3-liongo"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-hy-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-hy-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-owen-castellano.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-owen-castellano"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-te-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-te-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-theo-lindqvist.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-theo-lindqvist"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-zee-nakamura.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-zee-nakamura"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-ml-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-ml-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/es-female-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "es-female-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-ta-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-ta-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-ne-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-ne-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-greer-whitfield.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-greer-whitfield"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-as-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-as-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-sr-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-sr-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/zh-male-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "zh-male-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-si-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-si-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-vivienne-hart.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-vivienne-hart"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-kk-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-kk-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-be-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-be-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/mlm-b10-grandma.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "mlm-b10-grandma"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-bg-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-bg-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/sw-female-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "sw-female-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-sk-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-sk-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-la-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-la-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-et-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-et-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-jonas-feld.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-jonas-feld"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-silas-fenwick.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-silas-fenwick"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/he-female-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "he-female-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-ta-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-ta-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-ne-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-ne-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-as-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-as-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-sr-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-sr-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/tr-female-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "tr-female-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-kk-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-kk-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-si-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-si-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fi-male-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fi-male-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-ingrid-solberg.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-ingrid-solberg"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-be-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-be-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-milo-reyes.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-milo-reyes"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-julien-varenne.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-julien-varenne"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-bg-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-bg-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-ray-delgado.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-ray-delgado"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-sk-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-sk-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-la-b.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-la-b"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/fish-et-a.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "fish-et-a"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-sofia-bellini.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "alignnewsroom-sofia-bellini"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/ja-female-news.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ja-female-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-david-okafor.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "alignnewsroom-david-okafor"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-noelle-faraday.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "alignnewsroom-noelle-faraday"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-nora-pendleton.wav": {
+  "decision": "SUPERSEDE",
+  "reason": "junk copy; live same-name copy studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-nora-pendleton.wav is canonical",
+  "family": "alignnewsroom-nora-pendleton"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/mlm-verify-en.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "mlm-verify-en"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-james-ashworth.wav": {
+  "decision": "SUPERSEDE",
+  "reason": "junk copy; live same-name copy studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-james-ashworth.wav is canonical",
+  "family": "alignnewsroom-james-ashworth"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-emmett-kowalczyk.wav": {
+  "decision": "SUPERSEDE",
+  "reason": "junk copy; live same-name copy studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-emmett-kowalczyk.wav is canonical",
+  "family": "alignnewsroom-emmett-kowalczyk"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/creytix-alex-es-tmp.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "creytix-alex-es-tmp"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/mlm-verify-fr.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "mlm-verify-fr"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-theo-marchetti.wav": {
+  "decision": "SUPERSEDE",
+  "reason": "junk copy; live same-name copy studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-theo-marchetti.wav is canonical",
+  "family": "alignnewsroom-theo-marchetti"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-devon-ashworth-76781.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "alignnewsroom-devon-ashworth-76781"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-maren-aubry-76781.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "alignnewsroom-maren-aubry-76781"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-miles-garrow-76781.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "alignnewsroom-miles-garrow-76781"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-isaac-carlisle-76781.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "alignnewsroom-isaac-carlisle-76781"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-nolan-brandt.wav": {
+  "decision": "SUPERSEDE",
+  "reason": "junk copy; live same-name copy studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-nolan-brandt.wav is canonical",
+  "family": "alignnewsroom-nolan-brandt"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-felix-achterberg-76781.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "alignnewsroom-felix-achterberg-76781"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-priya-raman.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "alignnewsroom-priya-raman"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/mlm-verify-ar.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "mlm-verify-ar"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-hana-iverson.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "alignnewsroom-hana-iverson"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-ingrid-solberg-76781.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "alignnewsroom-ingrid-solberg-76781"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-marcus-chen-76781.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "alignnewsroom-marcus-chen-76781"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-priya-kessler.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "alignnewsroom-priya-kessler"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-graham-ellsworth.wav": {
+  "decision": "SUPERSEDE",
+  "reason": "junk copy; live same-name copy studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-graham-ellsworth.wav is canonical",
+  "family": "alignnewsroom-graham-ellsworth"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-noelle-faraday-86646.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "alignnewsroom-noelle-faraday-86646"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/_smoke-es-male-news.wav": {
+  "decision": "APPROVE-KEEP-SOLE-COPY",
+  "reason": "only copy in registry; keep per Ricardo's deleted-files rule",
+  "family": "_smoke-es-male-news"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/mlm-verify-zh.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "mlm-verify-zh"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-miles-garrow.wav": {
+  "decision": "SUPERSEDE",
+  "reason": "junk copy; live same-name copy studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-miles-garrow.wav is canonical",
+  "family": "alignnewsroom-miles-garrow"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-simone-okonkwo.wav": {
+  "decision": "SUPERSEDE",
+  "reason": "junk copy; live same-name copy studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-simone-okonkwo.wav is canonical",
+  "family": "alignnewsroom-simone-okonkwo"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-marcus-delaney-76781.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "alignnewsroom-marcus-delaney-76781"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-sam-okoro.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "alignnewsroom-sam-okoro"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-tarun-vashist.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "alignnewsroom-tarun-vashist"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-marisol-ochoa.wav": {
+  "decision": "SUPERSEDE",
+  "reason": "junk copy; live same-name copy studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-marisol-ochoa.wav is canonical",
+  "family": "alignnewsroom-marisol-ochoa"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-devon-ashworth.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "alignnewsroom-devon-ashworth"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-marcus-chen.wav": {
+  "decision": "SUPERSEDE",
+  "reason": "junk copy; live same-name copy studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-marcus-chen.wav is canonical",
+  "family": "alignnewsroom-marcus-chen"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-graham-ellsworth-76781.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "alignnewsroom-graham-ellsworth-76781"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-rafael-osei.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "alignnewsroom-rafael-osei"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-tamsin-okafor.wav": {
+  "decision": "SUPERSEDE",
+  "reason": "junk copy; live same-name copy studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-tamsin-okafor.wav is canonical",
+  "family": "alignnewsroom-tamsin-okafor"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-dana-whitlock-76781.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "alignnewsroom-dana-whitlock-76781"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-wyatt-solis.wav": {
+  "decision": "SUPERSEDE",
+  "reason": "junk copy; live same-name copy studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-wyatt-solis.wav is canonical",
+  "family": "alignnewsroom-wyatt-solis"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-felix-achterberg.wav": {
+  "decision": "SUPERSEDE",
+  "reason": "junk copy; live same-name copy studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-felix-achterberg.wav is canonical",
+  "family": "alignnewsroom-felix-achterberg"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-dana-whitlock.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "alignnewsroom-dana-whitlock"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-ruth-adeyemi.wav": {
+  "decision": "SUPERSEDE",
+  "reason": "junk copy; live same-name copy studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-ruth-adeyemi.wav is canonical",
+  "family": "alignnewsroom-ruth-adeyemi"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-maren-aubry.wav": {
+  "decision": "SUPERSEDE",
+  "reason": "junk copy; live same-name copy studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-maren-aubry.wav is canonical",
+  "family": "alignnewsroom-maren-aubry"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-elena-cruz-76781.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "alignnewsroom-elena-cruz-76781"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-james-ashworth-76781.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "alignnewsroom-james-ashworth-76781"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-isaac-carlisle.wav": {
+  "decision": "SUPERSEDE",
+  "reason": "junk copy; live same-name copy studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-isaac-carlisle.wav is canonical",
+  "family": "alignnewsroom-isaac-carlisle"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-marcus-delaney.wav": {
+  "decision": "SUPERSEDE",
+  "reason": "junk copy; live same-name copy studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-marcus-delaney.wav is canonical",
+  "family": "alignnewsroom-marcus-delaney"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-milo-reyes-76781.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "alignnewsroom-milo-reyes-76781"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-elena-cruz.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "alignnewsroom-elena-cruz"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-emiliano-robledo.wav": {
+  "decision": "SUPERSEDE",
+  "reason": "junk copy; live same-name copy studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-emiliano-robledo.wav is canonical",
+  "family": "alignnewsroom-emiliano-robledo"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-greer-whitfield-76781.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "alignnewsroom-greer-whitfield-76781"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-emiliano-robledo-76781.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "alignnewsroom-emiliano-robledo-76781"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-theo-lindqvist.wav": {
+  "decision": "SUPERSEDE",
+  "reason": "junk copy; live same-name copy studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-theo-lindqvist.wav is canonical",
+  "family": "alignnewsroom-theo-lindqvist"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/mlm-verify-es.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "mlm-verify-es"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-greer-whitfield.wav": {
+  "decision": "SUPERSEDE",
+  "reason": "junk copy; live same-name copy studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-greer-whitfield.wav is canonical",
+  "family": "alignnewsroom-greer-whitfield"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-vivienne-hart.wav": {
+  "decision": "SUPERSEDE",
+  "reason": "junk copy; live same-name copy studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-vivienne-hart.wav is canonical",
+  "family": "alignnewsroom-vivienne-hart"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/mlm-verify-de.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "mlm-verify-de"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-silas-fenwick.wav": {
+  "decision": "SUPERSEDE",
+  "reason": "junk copy; live same-name copy studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-silas-fenwick.wav is canonical",
+  "family": "alignnewsroom-silas-fenwick"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-ingrid-solberg.wav": {
+  "decision": "SUPERSEDE",
+  "reason": "junk copy; live same-name copy studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-ingrid-solberg.wav is canonical",
+  "family": "alignnewsroom-ingrid-solberg"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-milo-reyes.wav": {
+  "decision": "SUPERSEDE",
+  "reason": "junk copy; live same-name copy studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-milo-reyes.wav is canonical",
+  "family": "alignnewsroom-milo-reyes"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-emmett-kowalczyk-76781.wav": {
+  "decision": "REVIEW-PENDING",
+  "reason": "junk-path copy, byte-identical to a different-named live file; needs a human call on whether the name or the bytes are wrong \u2014 not auto-approved",
+  "family": "alignnewsroom-emmett-kowalczyk-76781"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-ray-delgado.wav": {
+  "decision": "SUPERSEDE",
+  "reason": "junk copy; live same-name copy studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-ray-delgado.wav is canonical",
+  "family": "alignnewsroom-ray-delgado"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/_deleted-backup/alignnewsroom-sofia-bellini.wav": {
+  "decision": "SUPERSEDE",
+  "reason": "junk copy; live same-name copy studio:/Users/mac-mini-studio/expedia-data/chatterbox-voices/alignnewsroom-sofia-bellini.wav is canonical",
+  "family": "alignnewsroom-sofia-bellini"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/miles-garrow/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "miles-garrow"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/miles-garrow/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "miles-garrow"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/miles-garrow/voice-reference-v2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "miles-garrow"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/miles-garrow/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "miles-garrow"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/miles-garrow/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "miles-garrow"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/miles-garrow/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "miles-garrow"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/marcus-webb/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "marcus-webb"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/marcus-webb/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "marcus-webb"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/marcus-webb/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "marcus-webb"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/marcus-webb/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "marcus-webb"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/priya-kessler/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "priya-kessler"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/priya-kessler/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "priya-kessler"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/priya-kessler/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "priya-kessler"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/priya-kessler/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "priya-kessler"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/priya-kessler/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "priya-kessler"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/emiliano-robledo/intro-native-clean.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "emiliano-robledo"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/emiliano-robledo/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "emiliano-robledo"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/emiliano-robledo/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "emiliano-robledo"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/emiliano-robledo/voice-reference-v2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "emiliano-robledo"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/emiliano-robledo/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "emiliano-robledo"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/emiliano-robledo/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "emiliano-robledo"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/emiliano-robledo/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "emiliano-robledo"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/zee-nakamura/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "zee-nakamura"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/zee-nakamura/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "zee-nakamura"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/zee-nakamura/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "zee-nakamura"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/zee-nakamura/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "zee-nakamura"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/tamsin-okafor/intro-native-clean.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "tamsin-okafor"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/tamsin-okafor/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "tamsin-okafor"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/tamsin-okafor/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "tamsin-okafor"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/tamsin-okafor/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "tamsin-okafor"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/tamsin-okafor/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "tamsin-okafor"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/tamsin-okafor/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "tamsin-okafor"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/marcus-chen/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "marcus-chen"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/marcus-chen/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "marcus-chen"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/marcus-chen/voice-reference-v2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "marcus-chen"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/marcus-chen/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "marcus-chen"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/marcus-chen/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "marcus-chen"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/marcus-chen/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "marcus-chen"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/owen-castellano/intro-native-clean.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "owen-castellano"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/owen-castellano/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "owen-castellano"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/owen-castellano/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "owen-castellano"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/owen-castellano/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "owen-castellano"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/owen-castellano/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "owen-castellano"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/james-ashworth/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "james-ashworth"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/james-ashworth/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "james-ashworth"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/james-ashworth/voice-reference-v2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "james-ashworth"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/james-ashworth/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "james-ashworth"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/james-ashworth/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "james-ashworth"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/james-ashworth/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "james-ashworth"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/greer-whitfield/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "greer-whitfield"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/greer-whitfield/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "greer-whitfield"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/greer-whitfield/voice-reference-v2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "greer-whitfield"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/greer-whitfield/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "greer-whitfield"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/greer-whitfield/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "greer-whitfield"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/greer-whitfield/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "greer-whitfield"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/felix-achterberg/intro-native-clean.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "felix-achterberg"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/felix-achterberg/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "felix-achterberg"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/felix-achterberg/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "felix-achterberg"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/felix-achterberg/voice-reference-v2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "felix-achterberg"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/felix-achterberg/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "felix-achterberg"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/felix-achterberg/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "felix-achterberg"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/felix-achterberg/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "felix-achterberg"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/hollis-grant/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "hollis-grant"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/hollis-grant/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "hollis-grant"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/hollis-grant/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "hollis-grant"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/hollis-grant/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "hollis-grant"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/dana-whitlock/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "dana-whitlock"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/dana-whitlock/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "dana-whitlock"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/dana-whitlock/voice-reference-v2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "dana-whitlock"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/dana-whitlock/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "dana-whitlock"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/dana-whitlock/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "dana-whitlock"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/dana-whitlock/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "dana-whitlock"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/hana-iverson/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "hana-iverson"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/hana-iverson/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "hana-iverson"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/hana-iverson/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "hana-iverson"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/hana-iverson/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "hana-iverson"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/hana-iverson/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "hana-iverson"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/tarun-vashist/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "tarun-vashist"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/tarun-vashist/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "tarun-vashist"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/tarun-vashist/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "tarun-vashist"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/tarun-vashist/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "tarun-vashist"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/tarun-vashist/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "tarun-vashist"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/nolan-brandt/intro-native-clean.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "nolan-brandt"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/nolan-brandt/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "nolan-brandt"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/nolan-brandt/voice-reference-v2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "nolan-brandt"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/nolan-brandt/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "nolan-brandt"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/nolan-brandt/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "nolan-brandt"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/nolan-brandt/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "nolan-brandt"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/maren-aubry/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "maren-aubry"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/maren-aubry/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "maren-aubry"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/maren-aubry/voice-reference-v2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "maren-aubry"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/maren-aubry/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "maren-aubry"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/maren-aubry/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "maren-aubry"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/maren-aubry/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "maren-aubry"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/milo-reyes/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "milo-reyes"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/milo-reyes/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "milo-reyes"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/milo-reyes/voice-reference-v2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "milo-reyes"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/milo-reyes/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "milo-reyes"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/milo-reyes/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "milo-reyes"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/milo-reyes/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "milo-reyes"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/ingrid-solberg/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ingrid-solberg"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/ingrid-solberg/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ingrid-solberg"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/ingrid-solberg/voice-reference-v2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ingrid-solberg"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/ingrid-solberg/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ingrid-solberg"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/ingrid-solberg/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ingrid-solberg"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/ingrid-solberg/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ingrid-solberg"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/ada-kowalski/intro-native-clean.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ada-kowalski"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/ada-kowalski/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ada-kowalski"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/ada-kowalski/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ada-kowalski"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/ada-kowalski/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ada-kowalski"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/ada-kowalski/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ada-kowalski"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/graham-ellsworth/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "graham-ellsworth"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/graham-ellsworth/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "graham-ellsworth"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/graham-ellsworth/voice-reference-v2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "graham-ellsworth"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/graham-ellsworth/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "graham-ellsworth"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/graham-ellsworth/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "graham-ellsworth"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/graham-ellsworth/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "graham-ellsworth"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/clara-lindgren/intro-native-clean.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "clara-lindgren"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/clara-lindgren/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "clara-lindgren"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/clara-lindgren/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "clara-lindgren"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/clara-lindgren/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "clara-lindgren"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/clara-lindgren/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "clara-lindgren"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/lena-varga/intro-native-clean.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "lena-varga"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/lena-varga/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "lena-varga"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/lena-varga/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "lena-varga"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/lena-varga/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "lena-varga"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/lena-varga/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "lena-varga"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/vivienne-hart/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "vivienne-hart"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/vivienne-hart/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "vivienne-hart"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/vivienne-hart/voice-reference-v2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "vivienne-hart"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/vivienne-hart/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "vivienne-hart"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/vivienne-hart/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "vivienne-hart"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/vivienne-hart/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "vivienne-hart"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/simone-okonkwo/intro-native-clean.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "simone-okonkwo"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/simone-okonkwo/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "simone-okonkwo"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/simone-okonkwo/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "simone-okonkwo"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/simone-okonkwo/voice-reference-v2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "simone-okonkwo"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/simone-okonkwo/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "simone-okonkwo"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/simone-okonkwo/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "simone-okonkwo"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/simone-okonkwo/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "simone-okonkwo"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/marisol-ochoa/intro-native-clean.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "marisol-ochoa"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/marisol-ochoa/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "marisol-ochoa"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/marisol-ochoa/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "marisol-ochoa"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/marisol-ochoa/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "marisol-ochoa"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/marisol-ochoa/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "marisol-ochoa"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/marisol-ochoa/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "marisol-ochoa"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/emmett-kowalczyk/intro-native-clean.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "emmett-kowalczyk"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/emmett-kowalczyk/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "emmett-kowalczyk"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/emmett-kowalczyk/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "emmett-kowalczyk"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/emmett-kowalczyk/voice-reference-v2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "emmett-kowalczyk"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/emmett-kowalczyk/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "emmett-kowalczyk"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/emmett-kowalczyk/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "emmett-kowalczyk"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/emmett-kowalczyk/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "emmett-kowalczyk"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/jonas-feld/intro-native-clean.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "jonas-feld"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/jonas-feld/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "jonas-feld"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/jonas-feld/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "jonas-feld"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/jonas-feld/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "jonas-feld"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/jonas-feld/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "jonas-feld"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/ruth-adeyemi/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ruth-adeyemi"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/ruth-adeyemi/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ruth-adeyemi"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/ruth-adeyemi/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ruth-adeyemi"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/ruth-adeyemi/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ruth-adeyemi"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/ruth-adeyemi/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ruth-adeyemi"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/elena-cruz/intro-native-clean.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "elena-cruz"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/elena-cruz/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "elena-cruz"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/elena-cruz/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "elena-cruz"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/elena-cruz/voice-reference-v2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "elena-cruz"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/elena-cruz/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "elena-cruz"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/elena-cruz/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "elena-cruz"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/elena-cruz/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "elena-cruz"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/sofia-bellini/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "sofia-bellini"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/sofia-bellini/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "sofia-bellini"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/sofia-bellini/voice-reference-v2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "sofia-bellini"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/sofia-bellini/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "sofia-bellini"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/sofia-bellini/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "sofia-bellini"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/sofia-bellini/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "sofia-bellini"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/rafael-osei/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "rafael-osei"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/rafael-osei/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "rafael-osei"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/rafael-osei/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "rafael-osei"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/rafael-osei/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "rafael-osei"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/rafael-osei/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "rafael-osei"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/priya-raman/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "priya-raman"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/priya-raman/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "priya-raman"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/priya-raman/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "priya-raman"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/priya-raman/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "priya-raman"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/priya-raman/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "priya-raman"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/theo-marchetti/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "theo-marchetti"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/theo-marchetti/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "theo-marchetti"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/theo-marchetti/voice-reference-v2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "theo-marchetti"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/theo-marchetti/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "theo-marchetti"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/theo-marchetti/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "theo-marchetti"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/isaac-carlisle/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "isaac-carlisle"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/isaac-carlisle/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "isaac-carlisle"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/isaac-carlisle/voice-reference-v2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "isaac-carlisle"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/isaac-carlisle/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "isaac-carlisle"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/isaac-carlisle/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "isaac-carlisle"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/isaac-carlisle/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "isaac-carlisle"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/zoe-marchetti/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "zoe-marchetti"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/zoe-marchetti/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "zoe-marchetti"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/zoe-marchetti/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "zoe-marchetti"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/zoe-marchetti/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "zoe-marchetti"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/yara-masri/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "yara-masri"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/yara-masri/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "yara-masri"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/yara-masri/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "yara-masri"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/yara-masri/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "yara-masri"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/nora-pendleton/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "nora-pendleton"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/nora-pendleton/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "nora-pendleton"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/nora-pendleton/voice-reference-v2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "nora-pendleton"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/nora-pendleton/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "nora-pendleton"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/nora-pendleton/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "nora-pendleton"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/nora-pendleton/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "nora-pendleton"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/sam-okoro/intro-native-clean.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "sam-okoro"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/sam-okoro/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "sam-okoro"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/sam-okoro/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "sam-okoro"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/sam-okoro/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "sam-okoro"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/sam-okoro/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "sam-okoro"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/sam-okoro/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "sam-okoro"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/julien-varenne/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "julien-varenne"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/julien-varenne/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "julien-varenne"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/julien-varenne/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "julien-varenne"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/julien-varenne/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "julien-varenne"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/corinne-vasquez/intro-native-clean.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "corinne-vasquez"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/corinne-vasquez/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "corinne-vasquez"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/corinne-vasquez/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "corinne-vasquez"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/corinne-vasquez/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "corinne-vasquez"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/corinne-vasquez/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "corinne-vasquez"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/colette-harlow/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "colette-harlow"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/colette-harlow/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "colette-harlow"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/colette-harlow/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "colette-harlow"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/colette-harlow/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "colette-harlow"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/adrian-vale/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "adrian-vale"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/adrian-vale/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "adrian-vale"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/adrian-vale/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "adrian-vale"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/adrian-vale/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "adrian-vale"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/harriet-vance/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "harriet-vance"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/harriet-vance/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "harriet-vance"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/harriet-vance/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "harriet-vance"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/harriet-vance/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "harriet-vance"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/amara-sesay/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "amara-sesay"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/amara-sesay/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "amara-sesay"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/amara-sesay/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "amara-sesay"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/amara-sesay/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "amara-sesay"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/camille-moreau/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "camille-moreau"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/camille-moreau/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "camille-moreau"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/camille-moreau/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "camille-moreau"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/camille-moreau/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "camille-moreau"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/wyatt-solis/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "wyatt-solis"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/wyatt-solis/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "wyatt-solis"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/wyatt-solis/voice-reference-v2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "wyatt-solis"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/wyatt-solis/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "wyatt-solis"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/wyatt-solis/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "wyatt-solis"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/wyatt-solis/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "wyatt-solis"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/devon-ashworth/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "devon-ashworth"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/devon-ashworth/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "devon-ashworth"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/devon-ashworth/voice-reference-v2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "devon-ashworth"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/devon-ashworth/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "devon-ashworth"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/devon-ashworth/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "devon-ashworth"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/devon-ashworth/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "devon-ashworth"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/ray-delgado/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ray-delgado"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/ray-delgado/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ray-delgado"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/ray-delgado/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ray-delgado"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/ray-delgado/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ray-delgado"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/ray-delgado/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ray-delgado"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/ines-duarte/intro-native-clean.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ines-duarte"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/ines-duarte/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ines-duarte"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/ines-duarte/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ines-duarte"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/ines-duarte/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ines-duarte"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/ines-duarte/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "ines-duarte"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/julian-marsh/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "julian-marsh"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/julian-marsh/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "julian-marsh"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/julian-marsh/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "julian-marsh"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/julian-marsh/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "julian-marsh"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/theo-lindqvist/intro-native-clean.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "theo-lindqvist"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/theo-lindqvist/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "theo-lindqvist"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/theo-lindqvist/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "theo-lindqvist"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/theo-lindqvist/voice-reference-v2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "theo-lindqvist"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/theo-lindqvist/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "theo-lindqvist"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/theo-lindqvist/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "theo-lindqvist"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/theo-lindqvist/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "theo-lindqvist"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/silas-fenwick/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "silas-fenwick"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/silas-fenwick/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "silas-fenwick"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/silas-fenwick/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "silas-fenwick"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/silas-fenwick/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "silas-fenwick"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/silas-fenwick/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "silas-fenwick"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/david-okafor/intro-native-clean.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "david-okafor"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/david-okafor/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "david-okafor"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/david-okafor/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "david-okafor"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/david-okafor/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "david-okafor"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/david-okafor/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "david-okafor"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/david-okafor/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "david-okafor"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/noelle-faraday/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "noelle-faraday"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/noelle-faraday/voice-reference-v2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "noelle-faraday"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/noelle-faraday/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "noelle-faraday"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/noelle-faraday/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "noelle-faraday"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/noelle-faraday/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "noelle-faraday"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/anders-solano/intro-native-clean.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "anders-solano"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/anders-solano/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "anders-solano"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/anders-solano/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "anders-solano"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/anders-solano/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "anders-solano"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/anders-solano/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "anders-solano"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/june-calloway/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "june-calloway"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/june-calloway/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "june-calloway"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/june-calloway/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "june-calloway"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/june-calloway/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "june-calloway"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/marcus-delaney/intro-en-fixed.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "marcus-delaney"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/marcus-delaney/intro-en.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "marcus-delaney"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/marcus-delaney/voice-reference-v2.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "marcus-delaney"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/marcus-delaney/voice-reference-30s.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "marcus-delaney"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/marcus-delaney/intro-native.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "marcus-delaney"
+ },
+ "studio:/Users/mac-mini-studio/expedia-data/reporter-voices/marcus-delaney/voice-reference.wav": {
+  "decision": "APPROVE",
+  "reason": "verified present-match on Studio; live copy",
+  "family": "marcus-delaney"
+ }
+}
